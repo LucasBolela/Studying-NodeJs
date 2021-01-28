@@ -2,11 +2,12 @@
 
 Foi construído um ambiente Node, para desenvolver as habilidades abaixo;
 
-# Modulo 1 - Sincronia de funções JavaScript
+<b> Modulo 1 - Sincronia de funções JavaScript</b>
+
 Entendendo Promises, utilizando then e o catch, e o async - await
 
-# Modulo 2 - Manipulação de Listas
+<b> Modulo 2 - Manipulação de Listas </b>
 
-# Modulo 3 - Introdução a desenvolvimento de testes automatizados
+<b> Modulo 3 - Introdução a desenvolvimento de testes automatizados </b>
 
-# Módulo 4 - Node.js além da Web - Criando ferramentas de linha de comando
+<b> Módulo 4 - Node.js além da Web - Criando ferramentas de linha de comando </b>
