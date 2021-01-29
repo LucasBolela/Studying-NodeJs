@@ -1,5 +1,5 @@
 {
-  "name": "node-server",
+  "name": "Studying NodeJs",
   "version": "1.0.0",
   "description": "Test",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LucasBolela/node-test/issues"
   },
-  "homepage": "https://github.com/LucasBolela/node-test#readme"
+  "homepage": "https://github.com/LucasBolela/node-test#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }

@@ -2,11 +2,13 @@
 
 Foi construído um ambiente Node, para desenvolver as habilidades abaixo;
 
-<b> Modulo 1 - Sincronia de funções JavaScript</b>
+https://erickwendel.teachable.com/courses/448292
 
+# Modulo 1 - Sincronia de funções JavaScript
 Entendendo Promises, utilizando then e o catch, e o async - await
 
-<b> Modulo 2 - Manipulação de Listas </b>
+# Modulo 2 - Manipulação de Listas
+Manipulando listas via API e criando funções prototipadas.
 
 <b> Modulo 3 - Introdução a desenvolvimento de testes automatizados </b>
 
