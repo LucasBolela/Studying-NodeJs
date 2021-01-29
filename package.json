@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/LucasBolela/node-test#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "nock": "^13.0.6"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
   }
 }
